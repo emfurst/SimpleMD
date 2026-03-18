@@ -32,14 +32,17 @@ Then proceed with the notebook as described in the manual.
 You will need the following installed on your computer:
 
 - **Python 3** (3.10 or later recommended) — download from [python.org](https://www.python.org/downloads/)
-- **Git** — download from [git-scm.com](https://git-scm.com/downloads)
+- **Git** (optional) — download from [git-scm.com](https://git-scm.com/downloads)
 
-#### 1. Clone the repository
+#### 1. Get the code
 
+**Using git:**
 ```bash
 git clone https://lem.che.udel.edu/git/furst/SimpleMD.git
 cd SimpleMD
 ```
+
+**Without git:** Download the repository as a zip file from the repository page, extract it, and open a terminal in the extracted folder.
 
 #### 2. Create a Python virtual environment
 
