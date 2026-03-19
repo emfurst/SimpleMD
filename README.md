@@ -78,5 +78,7 @@ The notebook walks through creating a simulation, running it, and analyzing the 
 
 - `CHEG231MD.py` — the molecular dynamics simulation code
 - `MDsim.ipynb` — Jupyter notebook for running and analyzing simulations
+- `MDvis.ipynb` - Jupyter notebook for visualizaing simulations with *py3Dmol* - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emfurst/SimpleMD/blob/main/MDvis.ipynb
+)
 - `maxwell boltzmann/` — Jupyter notebook for calculating the Maxwell-Boltzmann distribution; students can compare simulation results with the distribution
 - `SimpleMD_manual.pdf` — the manual, *Really Simple Molecular Dynamics with Python*
